@@ -11,7 +11,7 @@
 <h1 align="center">👋 Hello, World! I'm Joseph Marvin II Diwa Ramas</h1>
 
 <h3 align="center">
-  💻 Computer Engineer | 🔌 Embedded Systems Enthusiast | 🌐 Developer | ⚙️ Tech Explorer
+  💻 Computer Engineer | 🔌 Embedded Systems Enthusiast | 🌐 Developer | ⚙️ Tech Explorer | Quality Control Specialist
 </h3>
 
 <p align="center">
